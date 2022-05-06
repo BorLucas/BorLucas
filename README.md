@@ -1,4 +1,4 @@
-### Hi there, I'm Lucas Borges, PHP Software Engineer.
+### Hi there, I'm Lucas Borges, PHP & Typescript Software Engineer.
 
   - 🌱 I’m currently learning Typescript and NodeJs
   - 💬 Ask me about PHP & DataBase
