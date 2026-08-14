@@ -1,7 +1,8 @@
-### Hi there, I'm Lucas Borges, PHP & Typescript Software Engineer.
+### Hi there, I'm Lucas Borges, Senior Software Engineer focused on PHP, Node.js and TypeScript.
 
-  - 🌱 I’m currently learning Typescript and NodeJs
-  - 💬 Ask me about PHP & DataBase
+  - 🤖 Currently applying AI-First development practices (Claude Code, Devin) to accelerate delivery and improve code quality
+  - 💬 Ask me about PHP, Node.js, backend architecture & payment systems
+  - 🌍 Open to remote opportunities with global companies
 
 <div align="left">
   <a href="https://beacons.ai/borlucas">
@@ -23,6 +24,6 @@
 <div> 
   How to find me: <br/><br/>
   
-  <a href="https://www.linkedin.com/in/lucas-borges-866a42197/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="[https://www.linkedin.com/in/lucas-borges-dev/](https://www.linkedin.com/in/lucas-borges-dev/?locale=en-US)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
