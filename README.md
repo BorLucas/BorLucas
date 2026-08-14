@@ -4,10 +4,6 @@
   - 💬 Ask me about PHP, Node.js, backend architecture & payment systems
   - 🌍 Open to remote opportunities with global companies
 
-<div align="left">
-  <a href="https://beacons.ai/borlucas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=borlucas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
  <div style="display: inline_block"><br>
   <img align="center" alt="BorL-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="BorL-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -24,6 +20,6 @@
 <div> 
   How to find me: <br/><br/>
   
-  <a href="[https://www.linkedin.com/in/lucas-borges-dev/](https://www.linkedin.com/in/lucas-borges-dev/?locale=en-US)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/lucas-borges-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
