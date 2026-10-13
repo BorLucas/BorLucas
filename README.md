@@ -3,7 +3,7 @@
   - 🤖 Currently applying AI-First development practices (Claude Code, Devin) to accelerate delivery and improve code quality
   - 💬 Ask me about PHP, Node.js, backend architecture & payment systems
   - 🌍 Open to remote opportunities with global companies
-  - Uluma - Financial Management Founder
+  -  <a href="https://uluma.com.br" target="_blank">Uluma</a> - Financial Management Founder
 
  <div style="display: inline_block"><br>
   <img align="center" alt="BorL-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
